@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/LiepBoeger">
-   <img height = "180em" width = "450em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liepboeger&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height = "180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liepboeger&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
