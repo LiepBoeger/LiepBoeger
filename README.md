@@ -1,5 +1,5 @@
 <div align="center">
-  ## Welcome to my profile! 👨🏻‍💻
+   Welcome to my profile! 👨🏻‍💻
 </div>
 
 <br>
@@ -28,10 +28,7 @@
 <br>
 
 <div align="center">
-  ### Social Medias!
-</div>
-
-<div align="center"> 
+  Social Medias!
   <a href="https://instagram.com/liepbg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="http://discordapp.com/users/liepboeger8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:liepboeger@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
