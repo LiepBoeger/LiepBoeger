@@ -1,10 +1,12 @@
+<div align="center">
 ## Welcome to my profile! 👨🏻‍💻
+</div>
 
  <div align="center">
    <a href="https://github.com/LiepBoeger">
    <img height = "180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liepboeger&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
