@@ -27,7 +27,7 @@
 
 <br>
 
-<div>
+<div align="center">
   ### Social Medias!
 </div>
 
